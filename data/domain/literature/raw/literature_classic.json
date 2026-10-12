@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "total_passages": 10,
+    "genres": {
+      "poetry": 3,
+      "epic": 3,
+      "devotional": 2,
+      "folk": 2
+    },
+    "sources": [
+      "Classic Telugu Literature Collection"
+    ],
+    "authors": [
+      "శ్రీనాథుడు",
+      "అన్నమయ్య",
+      "తిక్కన సోమయాజి",
+      "బద్దెన",
+      "గురజాడ అప్పారావు",
+      "జానపద సాహిత్యం",
+      "బమ్మెర పోతన",
+      "అజ్ఞాత కవి",
+      "వేమన"
+    ],
+    "collected_at": "2026-02-16T19:58:18.908890"
+  },
+  "passages": [
+    {
+      "id": "80b2c992c40d",
+      "title": "వేమన పద్యం - విద్య",
+      "content": "చదువు చదువు ప్రత్యక్ష రాట్\nచదువు లేని వాడు ఒక మట్టి పెంట\nచదువు రానివాడు మట్టి\nచదువు వలన విద్య వచ్చును విశ్వదాభిరామ వినురవేమ",
+      "source": "Classic Telugu Literature Collection",
+      "url": "internal://classic_literature",
+      "author": "వేమన",
+      "genre": "poetry",
+      "work_title": "వేమన పద్యాలు",
+      "date_scraped": "2026-02-16T19:58:18.907325"
+    },
+    {
+      "id": "e581d738e19c",
+      "title": "సుమతీ శతకం - మిత్రుడు",
+      "content": "ఆపదలో నిజమైన మిత్రుడే\nమంచితనం చూపించు తెలుపు\nకష్టకాలంలో ఆదుకున్నవాడే\nనిజమైన స్నేహితుడు సుమతీ",
+      "source": "Classic Telugu Literature Collection",
+      "url": "internal://classic_literature",
+      "author": "బద్దెన",
+      "genre": "poetry",
+      "work_title": "సుమతీ శతకము",
+      "date_scraped": "2026-02-16T19:58:18.907325"
+    },
+    {
+      "id": "600201d3e912",
+      "title": "పోతన భాగవతం - గజేంద్ర మోక్షం",
+      "content": "అలవైకుంఠపురంబులో నగరిలో\nఆ మూల సౌధంబు దాపల తోటలో\nచెంగట వైజయంతీ మాలికా యుత\nచరణ కమలములాయన\nవిష్ణుతత్త్వంబు బాటించు నాతని కొల్చి\nనా మనంబులోపల నెఱయుండు\nపూర్వ పుణ్య ఫలంబిది పూజ్య చరితా",
+      "source": "Classic Telugu Literature Collection",
+      "url": "internal://classic_literature",
+      "author": "బమ్మెర పోతన",
+      "genre": "epic",
+      "work_title": "పోతన భాగవతము",
+      "date_scraped": "2026-02-16T19:58:18.907325"
+    },
+    {
+      "id": "edb4c8488fce",
+      "title": "తిక్కన భారతం - భీష్మ స్తవరాజం",
+      "content": "శ్రీరామచంద్ర చరితాభిరామంబు\nరామాయణంబు తత్ర భారతంబు\nవిష్ణు చరిత్రంబులైన\nపురాణ పరంపర వర్ణింతు నయ్య",
+      "source": "Classic Telugu Literature Collection",
+      "url": "internal://classic_literature",
+      "author": "తిక్కన సోమయాజి",
+      "genre": "epic",
+      "work_title": "ఆంధ్ర మహాభారతము",
+      "date_scraped": "2026-02-16T19:58:18.907325"
+    },
+    {
+      "id": "d8e72b74eb04",
+      "title": "అన్నమయ్య కీర్తన - బ్రహ్మం",
+      "content": "బ్రహ్మం వొకటే పరబ్రహ్మం వొకటే\nపరంధామం వొకటే\nనిర్గుణ బ్రహ్మం సగుణ బ్రహ్మం వొకటే\nతురీయం పరమాత్మ వొకటే",
+      "source": "Classic Telugu Literature Collection",
+      "url": "internal://classic_literature",
+      "author": "అన్నమయ్య",
+      "genre": "devotional",
+      "work_title": "అన్నమయ్య కీర్తనలు",
+      "date_scraped": "2026-02-16T19:58:18.907325"
+    },
+    {
+      "id": "b3bec2d8bb16",
+      "title": "గురజాడ కవిత - దేశభక్తి",
+      "content": "దేశమును ప్రేమించుమన్నా\nమంచి యన్నది పెంచుమన్నా\nవందనమాదరమన్నా\nపరధర్మంబులవి కామ పరహింస యన్నా",
+      "source": "Classic Telugu Literature Collection",
+      "url": "internal://classic_literature",
+      "author": "గురజాడ అప్పారావు",
+      "genre": "poetry",
+      "work_title": "ముత్యాల సరాలు",
+      "date_scraped": "2026-02-16T19:58:18.907325"
+    },
+    {
+      "id": "fb6b736f504f",
+      "title": "శ్రీనాథుడు - పల్నాటి వీర చరిత్ర",
+      "content": "పల్నాడు రణభూమి పల్నాటి వీరులు\nబ్రహ్మనాయుడు నాయనమ్మ పట్టిన కత్తి\nయుద్ధరంగంలో శూరత్వం చాటారు\nతెలుగు వీరుల కథ ఇది శ్రీనాథా",
+      "source": "Classic Telugu Literature Collection",
+      "url": "internal://classic_literature",
+      "author": "శ్రీనాథుడు",
+      "genre": "epic",
+      "work_title": "పల్నాటి వీర చరిత్ర",
+      "date_scraped": "2026-02-16T19:58:18.907325"
+    },
+    {
+      "id": "8d479fb1578e",
+      "title": "తెలుగు జానపద కథ - మంచి చెడు",
+      "content": "ఒక ఊరిలో ఇద్దరు అన్నదమ్ములు ఉండేవారు. పెద్దవాడు చాలా మంచివాడు, \nచిన్నవాడు కొంచెం అల్లరి. ఒకరోజు వాళ్ళ తండ్రి చనిపోయాడు. ఆస్తి పంచుకునే \nసమయంలో చిన్నవాడు ఎక్కువ భాగం తీసుకున్నాడు. కానీ కొన్నేళ్ళ తర్వాత, \nమంచితనంతో పని చేసిన పెద్దవాడు గొప్పవాడయ్యాడు.",
+      "source": "Classic Telugu Literature Collection",
+      "url": "internal://classic_literature",
+      "author": "జానపద సాహిత్యం",
+      "genre": "folk",
+      "work_title": "తెలుగు జానపద కథలు",
+      "date_scraped": "2026-02-16T19:58:18.907325"
+    },
+    {
+      "id": "c5048bc9059a",
+      "title": "కృష్ణ శతకం",
+      "content": "శ్రీకృష్ణ! నీ పాదపద్మముల సేవించి\nభక్తి భావంబున నిన్ను కొలిచెదన్\nముక్తి ప్రదాత నీవే\nమోక్షమార్గము చూపు కృష్ణా",
+      "source": "Classic Telugu Literature Collection",
+      "url": "internal://classic_literature",
+      "author": "అజ్ఞాత కవి",
+      "genre": "devotional",
+      "work_title": "కృష్ణ శతకము",
+      "date_scraped": "2026-02-16T19:58:18.907325"
+    },
+    {
+      "id": "29d7a4eab1f9",
+      "title": "తెలుగు సామెతలు",
+      "content": "అడగనిదే అమ్మైనా పెట్టదు.\nఆకులు రాల్చే చెట్టు పిందె వేయదు.\nఇంటికన్నా గుడి మేలు, తల్లికన్నా దైవం మేలు.\nఉన్నవాడికి ఉపకారం, లేనివాడికి అపకారం.\nఊరు మారినా ఉసురు మారదు.\nకంటికి నిదుర, మనసుకు శాంతి.",
+      "source": "Classic Telugu Literature Collection",
+      "url": "internal://classic_literature",
+      "author": "జానపద సాహిత్యం",
+      "genre": "folk",
+      "work_title": "తెలుగు సామెతలు",
+      "date_scraped": "2026-02-16T19:58:18.907325"
+    }
+  ]
+}

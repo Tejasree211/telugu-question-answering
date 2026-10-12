@@ -1,0 +1,90 @@
+{
+  "mbert": {
+    "base": {
+      "government": {
+        "exact_match": 34.69387755102041,
+        "f1": 53.62509164066628,
+        "num_samples": 98
+      },
+      "literature": {
+        "exact_match": 8.0,
+        "f1": 21.097085605402036,
+        "num_samples": 50
+      },
+      "news": {
+        "exact_match": 8.536585365853659,
+        "f1": 33.88072514265516,
+        "num_samples": 82
+      }
+    },
+    "domain": {
+      "government": {
+        "exact_match": 63.26530612244898,
+        "f1": 86.9987042436022,
+        "num_samples": 98
+      },
+      "literature": {
+        "exact_match": 78.0,
+        "f1": 85.54261294261293,
+        "num_samples": 50
+      },
+      "news": {
+        "exact_match": 26.82926829268293,
+        "f1": 47.18350754936121,
+        "num_samples": 82
+      }
+    },
+    "avg_base": {
+      "exact_match": 17.076820972291355,
+      "f1": 36.20096746290782
+    },
+    "avg_domain": {
+      "exact_match": 56.03152480504397,
+      "f1": 73.24160824519213
+    }
+  },
+  "muril": {
+    "base": {
+      "government": {
+        "exact_match": 44.89795918367347,
+        "f1": 60.4081632653061,
+        "num_samples": 98
+      },
+      "literature": {
+        "exact_match": 16.0,
+        "f1": 29.18499278499278,
+        "num_samples": 50
+      },
+      "news": {
+        "exact_match": 9.75609756097561,
+        "f1": 15.130662020905927,
+        "num_samples": 82
+      }
+    },
+    "domain": {
+      "government": {
+        "exact_match": 68.36734693877551,
+        "f1": 85.65099299793177,
+        "num_samples": 98
+      },
+      "literature": {
+        "exact_match": 92.0,
+        "f1": 96.6,
+        "num_samples": 50
+      },
+      "news": {
+        "exact_match": 29.268292682926827,
+        "f1": 48.159117305458764,
+        "num_samples": 82
+      }
+    },
+    "avg_base": {
+      "exact_match": 23.55135224821636,
+      "f1": 34.90793935706827
+    },
+    "avg_domain": {
+      "exact_match": 63.211879873900784,
+      "f1": 76.80337010113017
+    }
+  }
+}
